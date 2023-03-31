@@ -71,9 +71,7 @@ nav ul li {
     
     align-items: center;
 }
-.banner img{
-    
-}
+
 .banner-subtitle{
     font-size: 45px;
     color: #474747;
@@ -144,4 +142,52 @@ background-color:  #FFF8F3;
     margin-top:50px;
 padding: 130px 150px;
 text-align:center;
+}
+
+.develops{
+    max-width: 1140px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.develop1{
+    padding: 20px;
+    width: 200px;
+    box-shadow: 2px 0px 40px rgb(241, 230, 230);
+    border-radius: 10px;
+}
+.develop-title{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+/* Resume Description */
+.resume{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Resume-Title{
+    text-align: center;
+    margin: 80px;
+    font-size: 40px;
+}
+
+.resume1{
+    width:550px
+}
+.resum11{
+    margin-top:20px ;
+}
+.resum11 p{
+    margin: 20px 0px;
+    color:#757575 ;
+}
+.resume-title{
+    margin:10px 0px;
+    color:#757575 ;
+
+}
+.resume2{
+    width:550px;
 }
